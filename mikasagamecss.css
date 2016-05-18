@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+	#game{
+		display: inline-block;
+		vertical-align: top;
+		width: 500px;
+		margin-left: 20px;
+		margin-top: 20px;
+	}
+	img{
+		height: 100px;
+		width: 100px;	
+		border-radius: 30px;
+	}
